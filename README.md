@@ -1,26 +1,47 @@
-### 🧠 Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+# 👩‍💻 Sara Shlezinger  
 
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-
-### ⚙️ Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I am a passionate **Full Stack Developer** with a strong background in building robust web applications, optimizing databases, and integrating cutting-edge **Generative AI** solutions. Currently expanding my expertise through hands-on corporate development.
 
 ---
+
+### 🚀 About Me
+- 💻 **Currently:** Developing and maintaining systems in a .NET environment during my practical training at the Income Tax Commission.
+- 🎓 **Education:** Software Engineering Degree (Mahat) alongside advanced practical studies in Generative AI.
+- ⚡ **Tech Passion:** Bridging the gap between powerful backend logic and pixel-perfect frontend experiences, while leveraging AI agents and tools to boost efficiency.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | `C#` • `.NET Core` • `Node.js` • `Java` • `Python` • `REST APIs` |
+| **Frontend** | `Angular` • `React` • `JavaScript` • `HTML5` • `CSS3` |
+| **Databases & Caching** | `SQL Server` • `MongoDB` • `Redis` |
+| **DevOps & Tools** | `Docker` • `Git` • `Linux` • `AWS` • `Swagger` • `Postman` |
+| **AI Integration** | `OpenAI API` • `Fine-Tuning` • `MCP` • `GitHub Copilot` |
+
+---
+
+### 🌟 Featured Projects
+
+#### 🏮 Chinese Auction Management System
+A full-stack management system designed with modern architecture principles.
+- **Backend:** C#, ASP.NET Core, REST API, SQL Server, Redis.
+- **Frontend:** Angular.
+- **Key Features:** High-performance data binding, caching management, and containerized dev environment using Docker.
+
+#### 🛒 E-Commerce Platform
+A scalable and responsive web application built from scratch.
+- **Stack:** Node.js, React, MongoDB.
+- **Key Features:** Component-based UI, secure authentication, and database optimization.
+
+#### 🤖 Generative AI Integration Projects
+Hands-on implementations combining traditional software architecture with AI components.
+- **Focus:** Building IDE-Agents, utilizing Model Context Protocol (MCP), prompt engineering, and connecting to the OpenAI API.
+
+---
+
+### 🤝 Connect with Me
+- 📧 **Email:** s0534145423@gmail.com
+- 💼 **GitHub Portfolio:** [github.com/Sara-gitCount](https://github.com/Sara-gitCount)
