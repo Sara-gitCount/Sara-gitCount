@@ -1,4 +1,4 @@
-# 👩‍💻 Sara Shlezinger  
+# Sara Shlezinger  
 
 I am a passionate **Full Stack Developer** with a strong background in building robust web applications, optimizing databases, and integrating cutting-edge **Generative AI** solutions. Currently expanding my expertise through hands-on corporate development.
 
